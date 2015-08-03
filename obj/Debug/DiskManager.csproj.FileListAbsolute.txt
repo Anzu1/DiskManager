@@ -1,0 +1,23 @@
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\DiskImageMaker\DiskManager\obj\Debug\DiskManager.csprojResolveAssemblyReference.cache
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\DiskImageMaker\DiskManager\obj\Debug\DiskManager.Form1.resources
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\DiskImageMaker\DiskManager\obj\Debug\DiskManager.Properties.Resources.resources
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\DiskImageMaker\DiskManager\obj\Debug\DiskManager.csproj.GenerateResource.Cache
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\DiskImageMaker\DiskManager\bin\Debug\DiskManager.exe.config
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\DiskImageMaker\DiskManager\bin\Debug\DiskManager.exe
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\DiskImageMaker\DiskManager\bin\Debug\DiskManager.pdb
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\DiskImageMaker\DiskManager\obj\Debug\DiskManager.exe
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\DiskImageMaker\DiskManager\obj\Debug\DiskManager.pdb
+C:\Users\Ania\Documents\Visual Studio 2013\Projects\DiskImageMaker\DiskManager\obj\Debug\DiskManager.ShowSectorForm.resources
+D:\DiskManager\bin\Debug\DiskManager.exe.config
+D:\DiskManager\obj\Debug\DiskManager.exe
+D:\DiskManager\obj\Debug\DiskManager.pdb
+D:\DiskManager\bin\Debug\DiskManager.exe
+D:\DiskManager\bin\Debug\DiskManager.pdb
+D:\DiskManager\obj\Debug\DiskManager.csprojResolveAssemblyReference.cache
+D:\DiskManager\obj\Debug\DiskManager.Form1.resources
+D:\DiskManager\obj\Debug\DiskManager.Properties.Resources.resources
+D:\DiskManager\obj\Debug\DiskManager.ShowSectorForm.resources
+D:\DiskManager\obj\Debug\DiskManager.csproj.GenerateResource.Cache
+C:\Users\Ania\Desktop\DiskManager\bin\Debug\DiskManager.exe.config
+C:\Users\Ania\Desktop\DiskManager\obj\Debug\DiskManager.exe
+C:\Users\Ania\Desktop\DiskManager\obj\Debug\DiskManager.pdb
