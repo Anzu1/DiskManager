@@ -131,7 +131,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(161, 13);
             this.label3.TabIndex = 6;
-            this.label3.Text = "DYSK XDEEP BLACK (7,94 MB)";
+            this.label3.Text = "";
             // 
             // readButton
             // 
